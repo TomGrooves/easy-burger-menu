@@ -1,2 +1,5 @@
 # easy-burger-menu
-A collection of little tools and stuff for web-development
+
+A small light easy to use burger menu for creating a responsive navbar
+
+Edit a few variables in "css/burgerStyle.scss" to change size, position and color easily. 
